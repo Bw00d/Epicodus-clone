@@ -1,3 +1,6 @@
+body {
+	color: #555555;
+}
 h1 {
 	margin-bottom: .70em;
 	color: #555555;
@@ -22,10 +25,11 @@ li {
 	display: inline;
 }
 #lesson {
-	height: 400px;
+	min-height: 400px;
 	border-left: 1px solid #DDDDDD;
 	border-right: 1px solid #DDDDDD;
 	border-bottom: 1px solid #DDDDDD;
+	padding: 15px 20px;
 }
 .footer {
 	margin: 10px auto;
