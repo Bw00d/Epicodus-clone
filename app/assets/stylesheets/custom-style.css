@@ -47,3 +47,14 @@ li {
 .menu li {
 	margin-bottom: 8px;
 }
+
+#new-lesson {
+	border: solid 1px #DDDDDD;
+	padding: 20px;
+}
+.fifty-percent {
+	width: 50%;
+}
+.ten-percent {
+	width: 10%;
+}
