@@ -1,0 +1,18 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: epicodus_clone_development
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: epicodus_clone_test
+
+# production:
+#   adapter: postgresql
+#   encoding: unicode
+#   database: epicodus_clone_production
+#   pool: 5
+#   username: epicodus_clone
+#   password:
