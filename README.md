@@ -12,4 +12,4 @@ My objectives:
 
 * Of course we will use test driven development throughout.
 
-* The lesson plan says to simple have each lesson show text, however, I would like to practice <a href="http://getbootstrap.com/">Bootstrap</a> so I will be attempting to use the bootstrap Tabs and style the pages like the Epicodus pages.
+* The lesson plan says to simply have each lesson show text, however, I would like to practice <a href="http://getbootstrap.com/">Bootstrap</a> so I will be attempting to use the bootstrap Tabs and style the pages like the Epicodus pages.
