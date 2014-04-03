@@ -4,7 +4,7 @@
 
 The objective of this exercise is to build a clone of <a href="http://www.learnhowtoprogram.com">Epicodus.com</a> website. This is the third Rails 4 project that we will be doing.  I missed class today and am doing it from my hotel room.  
 
-My objects:
+My objectives:
 
 * First, work on CRUD/L functionality for lessons. A lesson has a name and some text content. Don't worry about videos and cheat sheets.
 
