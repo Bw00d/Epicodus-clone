@@ -1,6 +1,9 @@
 body {
 	color: #555555;
 }
+div.main {
+	padding: 0 5% !important;
+}
 h1 {
 	margin-bottom: .70em;
 	color: #555555;
@@ -15,8 +18,19 @@ h1 {
 .nav>li>a {
 	display:inline;
 }
+.nav>li>a:hover {
+	background-color: white;
+	color: red;
+}
 li {
 	line-height: 20px;
+}
+a {
+	color: #555555;
+}
+a:hover {
+	color: red;
+	text-decoration: none;
 }
 .nav {
 	list-style: none;
@@ -43,6 +57,7 @@ li {
 	border-top: 1px solid #DDDDDD;
 	padding-top: 10px;
 	font-size: 12px;
+	background-color: white;
 }
 .menu li {
 	margin-bottom: 8px;

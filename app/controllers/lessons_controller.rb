@@ -1,5 +1,9 @@
 class LessonsController < ApplicationController
 
+	def welcome
+		
+	end
+
 	def index
 		@lessons = Lesson.all
 		render('lessons/index.html.erb')
@@ -12,13 +16,13 @@ class LessonsController < ApplicationController
 
 	def admin
 		@lesson = Lesson.new
-		render('lessons/show.html.erb')
+		render('lessons/admin.html.erb')
 	end
 
 	def create
 		@lesson = Lesson.new(name: params[:name], number: params[:number], content: params[:content])
 		if @lesson.save
-			render('lessons/show.html.erb')
+			render('lessons/index.html.erb')
 		else
 			render('lessons/admin.html.erb')
 		end
