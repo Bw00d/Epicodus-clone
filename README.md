@@ -2,7 +2,7 @@
 
 ###Epicodus bootcamp exercise
 
-The objective of this exercise is to build a site like <a href="http://www.learnhowtoprogram.com">Epicodus.com</a> website. This is the third Rails 4 project that we will be doing.  I missed class and did the exercise from my hotel room.  
+The objective of this exercise is to build a site like the <a href="http://www.learnhowtoprogram.com">Epicodus</a> website. This is the third Rails 4 project that we will be doing.  I missed class and did the exercise from my hotel room.  
 
 The objectives:
 
