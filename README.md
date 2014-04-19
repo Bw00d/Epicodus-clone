@@ -10,8 +10,6 @@ The objectives:
 
 * Next, we need to get the order of the lessons in. Each lesson has a number. When you click Next lesson at the bottom of the page, it goes to the lesson with the next-highest number.
 
-* Of course we will use test driven development throughout.
-
 * The lesson plan says to simply have each lesson show text, however, I would like to practice <a href="http://getbootstrap.com/">Bootstrap</a> so I will be attempting to use the bootstrap Tabs and style the pages like the Epicodus pages.
 
 
